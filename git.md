@@ -4,7 +4,7 @@
 
 ![new repo github](./create_new_repo.png)
 
-Après ça, on tombe sur cette page que l'on garde de côté
+Après ça, on tombe sur cette page que l'on garde de côté pour trouver les 2 ligne de commande après le commit pour 1er push
 
 ![commande](./info_command.png)
 
@@ -31,7 +31,7 @@ git remote add origin git@github.com:username/repo_name.git
 git push -u origin master
 ```
 
-![commit](./commit.png)
+![commit](./commit_push_first.png)
 
 -> permet de faire le 1er commit push ensuite on fera simplement:
 
